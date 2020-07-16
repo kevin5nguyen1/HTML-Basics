@@ -1,0 +1,70 @@
+body{
+  font-size: 25px;
+  background: #A9A9A9;
+}
+.body-interest{
+  background: #59787F;
+
+}
+.body-experience{
+  background: #BCB18D;
+
+}
+nav:hover{
+  background: DodgerBlue;
+  color: white;
+  border:3px solid black;
+}
+main{
+  color: white;
+  text-align: center;
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style-type: lower-alpha;
+}
+.interest-title{
+  text-align: left;
+  color: yellow;
+}
+.interest{
+  text-align: left;
+}
+.first-list{
+  text-align: left;
+}
+.cs{
+  text-align: left;
+}
+.font-title{
+  display: block;
+  margin: 0;
+  padding: 10px 10px;
+  background: #696969;
+  color: #FFFFF0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 37px;
+  font-family: "Lucida Console", Courier, monospace;
+}
+.img{
+  border:3px solid white;
+}
+.h3-title{
+  text-align: left;
+}
+.growing{
+  background: #A0B9C0;
+  color: black;
+}
+.whole{
+  background: #515045;
+}
+.before{
+  background: #A4B2C1;
+}
+.first-p{
+  background: grey;
+}
